@@ -97,7 +97,7 @@ li:hover {
 /* Tambahkan CSS berikut untuk gaya tabel dan baris (row) */
 
 table {
-    width: 50px;
+    width: 100px;
     border-collapse: collapse;
     margin-bottom: 20px;
 }
